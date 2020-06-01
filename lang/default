@@ -73,7 +73,7 @@
 "Destination Directory Missing" :: "目标目录不存在"
 "The destination folder does not exist. Would you like to create it?" :: "目标文件夹不存在。需要创建吗？"
 "The destination folder could not be created.\nPlease select another folder." :: "目标文件夹无法创建。\n请选择其他文件夹！"
-"Axure RP cannot open the file:\r\n\"{0}\"\r\n\r\nThis is most likely not a valid .rp file. The file may have been corrupted or encrypted.\r\n\r\nYou can try using the 'File -> Recover File from Backup...' feature on the computer where the file was last edited to retrieve an autosaved copy.\r\n\r\nIf you are sharing the file with others, the file may have been encrypted on another computer or shared drive. If that is the case, the person who saved that file will need to open it and save an unencrypted version. Or if the file was emailed, it may have been corrupted over email.\r\n\r\nContact support@axure.com if you have any questions." :: "Axure RP 无法打开文件:\r\n\"{0}\"\r\n\r\n这很可能不是有效的.rp文件。该文件可能已损坏或加密。\r\n\r\n可以尝试使用上次编辑该文件的计算机上的“文件”->“从备份中恢复文件…”功能来检索自动保存的副本。\r\n\r\n如果你与其他人共享该文件，则该文件可能已在其他计算机或共享驱动器上加密。如果是这种情况，则保存该文件的人需要打开该文件并保存未加密的版本。或者，如果该文件是通过电子邮件发送的，它可能已通过电子邮件损坏。\r\n\r\n如果你有任何问题，请联系support@axure.com。"
+"Axure RP cannot open the file:\r\n\"{0}\"\r\n\r\nThis is most likely not a valid .rp file. The file may have been corrupted or encrypted.\r\n\r\nYou can try using the 'File -> Recover File from Backup...' feature on the computer where the file was last edited to retrieve an autosaved copy.\r\n\r\nIf you are sharing the file with others, the file may have been encrypted on another computer or shared drive. If that is the case, the person who saved that file will need to open it and save an unencrypted version. Or if the file was emailed, it may have been corrupted over email.\r\n\r\nContact support@axure.com if you have any questions." :: "Axure RP 无法打开文件:\r\n\"{0}\"\r\n\r\n这很可能不是有效的.rp文件。该文件可能已损坏或加密。\r\n\r\n可以尝试使用上次编辑该文件的计算机上的“文件”->“从备份中恢复文件…”功能来检索自动保存的副本。\r\n\r\n如果你与其他人共享该文件，则该文件可能已在其他计算机或共享驱动器上加密。如果是这种情况，则保存该文件的人需要打开该文件并保存未加密的版本。或者，如果该文件是通过电子邮件发送的，它可能已通过电子邮件损坏。\r\n\r\n如果你有任何问题，请联系 support@axure.com。"
 
 -----------------------------欢迎界面-----------------------------
 "Welcome to {0}" :: "欢迎使用 {0}"
@@ -1014,7 +1014,7 @@
 -------------------------------模块-------------------------------
 "Pages" :: "页面"
 "Widgets" :: "元件"
-"Outline" :: "概要"
+"Outline" :: "大纲"
 "Libraries" :: "元件"
 "Masters" :: "母版"
 "Style" :: "样式"
@@ -1028,13 +1028,13 @@
 "Add Page" :: "添加页面"
 "Add Folder" :: "添加文件夹"
 
--------------------------------概要-------------------------------
+-------------------------------大纲-------------------------------
 "Sort and Filter" :: "排序与筛选"
 "All Widgets" :: "全部元件"
 "Dynamic Panels" :: "动态面板"
 "Dynamic Panels or Masters" :: "动态面板或母版"
-"Has Name" :: "具有名称"
-"Has Footnote" :: "具有脚注"
+"Has Name" :: "有名称"
+"Has Footnote" :: "有脚注"
 "Placed or Unplaced" :: "显示或隐藏"
 "Placed" :: "显示"
 "Unplaced" :: "隐藏"
@@ -2582,7 +2582,7 @@
 "Format" :: "格式"
 
 -----------------------------右键菜单-----------------------------
-----------概要----------
+----------大纲----------
 "Place in View" :: "放置到视图中"
 "Hide from view" :: "在视图中隐藏"
 "Show in view" :: "在视图中显示"
