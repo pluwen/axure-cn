@@ -1803,7 +1803,9 @@
 -------------------------------交互-------------------------------
 
 "({0} Name)" :: "({0}名称)"
+"PAGE INTERACTIONS" :: "页面交互"
 "New Interaction" :: "新建交互"
+"Add page interactions above\nor select a widget on the canvas\nto make the widget interactive" :: "在上方添加页面交互\n或在画布上选择一个元件\n以使该元件具有交互性"
 "Start adding new interactions\nby clicking the button above" :: "点击上方按钮开始添加新的交互"
 "COMMON INTERACTIONS" :: "常用交互"
 "Focused" :: "获取焦点"
@@ -2457,6 +2459,8 @@
 "PAGE DIMENSIONS" :: "页面尺寸"
 "Fit to Content" :: "自适应内容"
 "Custom Device" :: "自定义设备"
+"Auto" :: "自动"
+"Default" :: "默认"
 "APPLE" :: "苹果"
 "ANDROID" :: "安卓"
 "Android Tablet" :: "安卓平板电脑"
@@ -2469,6 +2473,8 @@
 "Manage Page Styles" :: "管理页面样式"
 "PAGE ALIGN" :: "页面排列"
 "FILL" :: "填充"
+"LOW FIDELITY" :: "低保真"
+"Reduce visual fidelity to focus on UX" :: "降低视觉保真度\n来专注于 UX"
 ----------连线----------
 "Reflow" :: "重置连线"
 "Sharp Turns" :: "直角折线"
