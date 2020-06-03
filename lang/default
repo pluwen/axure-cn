@@ -891,6 +891,7 @@
 
 -------------------------------账号-------------------------------
 "Log &in to your Axure account..." :: "登录你的账号(&I)"
+"Sign &in to your Axure account..." :: "登录你的 Axure 账号(&I)"
 "Log &out" :: "退出(&O)"
 "License" :: "授权"
 "Manage Accounts" :: "管理账户"
@@ -918,6 +919,15 @@
 "Easily share and manage your prototypes with a free account" :: "使用免费帐户轻松共享和管理原型"
 "Don't have an account?" :: "你还没有账户？"
 "Already have an account?" :: "已经拥有账户？"
+
+-------------------------------窗口-------------------------------
+"&Minimize"  :: "最小化(&M)"
+"&Zoom"  :: "缩放(&Z)"
+"Zoom All"  :: "全部缩放"
+"Move Window to Left Side of Screen"  :: "将窗口拼贴到屏幕左侧"
+"Move Window to Right Side of Screen"  :: "将窗口拼贴到屏幕右侧"
+"&Bring All to Front"  :: "全部置于顶层(&B)"
+"Arrange in Front"  :: "排在前面"
 
 -------------------------------帮助-------------------------------
 "&Online Training..." :: "在线培训(&O)…"
