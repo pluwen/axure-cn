@@ -78,6 +78,7 @@
 "No masters found matching:\n\"" :: "没有搜索到母版：\n\""
 "No widgets in {0} matching:\n\"" :: "{0}元件库中没有搜索到元件：\n\""
 "No widgets found matching:\n\"" :: "没有搜索到元件：\n\""
+
 -----------------------------欢迎界面-----------------------------
 "Welcome to {0}" :: "欢迎使用 {0}"
 "Thank you for trying Axure RP."  :: "感谢你试用 Axure RP！"
@@ -292,6 +293,7 @@
 "AutoSave Date/Time" :: "自动备份日期/时间"
 "File Name" :: "文件名"
 "Recover" :: "恢复"
+
 ----------偏好----------
 "Preferences" :: "偏好设置"
 "General" :: "常规"
@@ -343,6 +345,7 @@
 "Find and Replace" :: "查找与替换"
 "Select &All" :: "全选(&A)"
 "&Delete" :: "删除(&D)"
+"Spell Chec&k..." :: "拼写检查(&K)…"
 ----------查找----------
 "Find" :: "查找"
 "Find what:" :: "查找内容:"
@@ -373,6 +376,7 @@
 "&Toolbars" :: "工具栏(&T)"
 "&Panes" :: "功能区(&P)"
 "&Reset View" :: "重置视图(&R)"
+"Fullscreen" :: "全屏"
 "&Rulers, Grid, and Guides" :: "标尺 ▪ 网格 ▪ 辅助线"
 "&Masks" :: "遮罩(&M)"
 "Show &Footnotes" :: "显示脚注(&F)"
