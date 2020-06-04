@@ -213,13 +213,13 @@
 "Missing fields are shown in red." :: "丢失的字段以红色显示。"
 "Import all notes fields" :: "导入所有注释字段"
 "Select the notes fields to import:" :: "选择要导入的注释字段："	
-"Remove existing notes fields (if any imported fields have the same names as existing fields, the data will not be deleted)." :: "删除现有的注释字段。（如果导入字段的名称与现有字段名称相同，字段的数据不会删除。)"
+"Remove existing notes fields (if any imported fields have the same names as existing fields, the data will not be deleted)." :: "删除现有的注释字段。（如果导入字段的名称与现有字段名称相同，字段的数据不会删除。）"
 "Import Widget Notes Fields and Sets" :: "导入元件注释字段与设置"
 "Please select the widget notes fields and sets you would like to import." :: "请选择你想要导入的元件注释字段与设置。"
 "Import all widget notes fields and sets" :: "导入全部元件注释和设置"
 "Select the widget notes fields to import:" :: "选择元件注释字段进行导入："
 "Select the sets to import:" :: "选择要导入的设置："
-"Remove existing widget notes fields (if any imported fields have the same names as existing fields, the data will not be deleted)." :: "删除现有的元件注释字段。（如果导入字段的名称与现有字段名称相同，字段的数据不会删除。)"
+"Remove existing widget notes fields (if any imported fields have the same names as existing fields, the data will not be deleted)." :: "删除现有的元件注释字段。（如果导入字段的名称与现有字段名称相同，字段的数据不会删除。）"
 "Import Page Styles" :: "导入页面样式"
 "Please select the page styles you would like to import." :: "请选择你要导入的页面样式。"
 "Import all styles" :: "导入所有样式"
@@ -359,13 +359,13 @@
 "Match case" :: "区分大小写"
 "Include widget notes" :: "包含元件注释"
 "Include page notes" :: "包含页面注释"
-"Include panels and repeaters (Find All only)" :: "包含动态面板和中继器 (仅查找全部时)"
+"Include panels and repeaters (Find All only)" :: "包含动态面板和中继器（仅查找全部时）"
 "Include masters (Find All only)" :: "包含母版(仅查找全部时)"
 "Find Complete." :: "查找完成。"
 ----------替换----------
 "Replace with:" :: "替换内容:"
-"Include panels and repeaters (Replace All only)" :: "包含动态面板和中继器 (仅替换全部时)"
-"Include masters (Replace All only)" :: "包含母版(仅替换全部时)"
+"Include panels and repeaters (Replace All only)" :: "包含动态面板和中继器（仅替换全部时）"
+"Include masters (Replace All only)" :: "包含母版（仅替换全部时）"
 "Find Next" :: "继续查找"
 "Find All" :: "查找全部"
 "Results" :: "结果"
@@ -785,9 +785,9 @@
 "Include expanded trees" :: "包含展开的树"
 "Show default pages in inline frames" :: "在内联框架中显示默认页面"
 "Do not apply background styles" :: "不使用背景样式"
-"Max width as % of page/column width:" :: "最大宽度相对于页面/列宽度的比例(%)"
-"Max height as % of page height:" :: "最大高度相对于页面高度的比例(%)"
-"Allow screenshots to split across pages (single column only)" :: "允许跨页时分割屏幕快照(只用于单列)"
+"Max width as % of page/column width:" :: "最大宽度占页面/列宽度的百分比(%)"
+"Max height as % of page height:" :: "最大高度占页面高度的百分比(%)"
+"Allow screenshots to split across pages (single column only)" :: "允许跨页时分割屏幕快照（只用于单列）"
 ----------元件----------
 "Include Widget Tables" :: "包含元件表"
 "Widget Table" :: "元件表"
@@ -1853,7 +1853,6 @@
 "New Master" :: "新建母版"
 
 -------------------------------交互-------------------------------
-
 "({0} Name)" :: "({0}名称)"
 "New Interaction" :: "新建交互"
 "Start adding new interactions\nby clicking the button above" :: "点击上方按钮开始添加新的交互"
@@ -3021,7 +3020,6 @@
 "Are you sure you want to undo these check outs?\nAll changes will be lost." :: "确认要撤销签出？所有的变更将丢失！"
 " is checked out." :: " 已签出。"
 "Would you like to check in?" :: "是否需要签入？"
-
 
 -----------------------------企业版本-----------------------------
 "&Manage Servers..." :: "管理服务器(&M)…"
