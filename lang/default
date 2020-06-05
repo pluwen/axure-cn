@@ -638,6 +638,7 @@
 --------发布项目--------
 "Publish Project" :: "发布项目"
 "Publish to Axure Cloud" :: "发布到 Axure 云"
+"Publish Locally" :: "发布到本地"
 "Use Default" :: "使用默认"
 "Last published to:" :: "上次发布到："
 "Publish to a New Project" :: "发布为新项目"
@@ -658,7 +659,6 @@
 "Share Link" :: "共享链接："
 "Copy Link" :: "复制链接"
 "Ready to Share!" :: "发布完成!"
-"Publish Complete" :: "发布完成"
 "Publish Complete" :: "发布完成"
 "Your project is being published." :: "你的项目正在发布。"
 "Your project has been published." :: "你的项目已经发布完成。"
