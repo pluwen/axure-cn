@@ -1,4 +1,4 @@
--------------------------------MAC-------------------------------
+-------------------------------macOS-------------------------------
 "Exit" :: "退出"
 "This beta version is for licensed customers.\nPlease enter a license key or log in to a subscribing account." :: "此测试版限授权客户使用。\n请输入授权密钥或登录到订阅帐户。"
 "Congratulations!" :: "恭喜你！"
@@ -87,9 +87,6 @@
 "Enter License" :: "输入授权"
 "Buy Now" :: "现在购买"
 "Log In" :: "登录"
-"Recent Projects" :: "最近的项目"
-"Explore the possibilities" :: "探索更多可能性"
-"Open the Tour File" :: "请打开导览文件"
 "Open Existing" :: "打开现有文件"
 "New File" :: "新建文件"
 "Don't show this at startup." :: "启动时不再显示"
@@ -99,9 +96,11 @@
 "Learn and Support" :: "学习与支持"
 "http://www.axure.com/forum" :: "http://www.axure.com/forum"
 "http://www.axure.com/support" :: "http://www.axure.com/support"
-"Explore the possibilities of Axure RP 9" :: "探索 Axure RP 9 的能力"
+"Explore the possibilities" :: "探索更多可能性"
 "Open Tour File" :: "打开导览文件"
 "Recent Files" :: "最近编辑的文件"
+"Open the Tour File" :: "请打开导览文件"
+"Recent Projects" :: "最近的项目"
 
 -----------------------------管理授权-----------------------------
 "Manage License" :: "管理授权"
@@ -300,9 +299,9 @@
 ----------偏好----------
 "Preferences" :: "偏好设置"
 "General" :: "常规"
+"APPEARANCE" :: "外观"
 "Negative Canvas Regions" :: "启用画布负空间"
 "SHOW THUMBNAILS ON HOVER PANES" :: "在面板上悬停时显示缩略图"
-"APPEARANCE" :: "外观"
 "Dark Mode" :: "黑暗模式"
 "Light Mode" :: "明亮模式"
 "Enable Backups" :: "启用备份"
@@ -1851,6 +1850,7 @@
 -------------------------------母版-------------------------------
 "Add Master" :: "添加母版"
 "New Master" :: "新建母版"
+"Masters are collections of widgets that you can reuse throughout your project.\n\nClick the canvas and drag to select the button and image. Then right-click either widget and choose \"Convert to Master\" in the context menu. In the dialog, name the master and click \"Continue\".\n\nYou can see your new master in the Masters pane (bottom-left)." :: "母版是可在整个项目中重复使用的元件集合。\n\n单击画布并拖动以选择按钮和图像。 然后右键单击任何一个元件，在上下文菜单中选择“转换为母版”的选项。 在对话框中，为母版命名，然后单击“继续按钮”，\n\n您将可以在“母版”面板（左下角）中看到新的母版。"
 
 -------------------------------交互-------------------------------
 "({0} Name)" :: "({0}名称)"
@@ -1860,12 +1860,12 @@
 " INTERACTIONS" :: "交互"
 "SHAPE INTERACTIONS" :: "形状交互"
 "PAGE INTERACTIONS" :: "页面交互"
-"Add page interactions above\nor select a widget on the canvas\nto make the widget interactive" :: "在上方添加页面交互\n或在画布上选择元件\n使该元件可交互"
 "PROPERTIES"  :: "属性"
 " PROPERTIES"  :: "属性"
 "Tip" :: "提示"
 "Show All" :: "显示全部"
 "Hide Unused" :: "隐藏未用"
+"Add page interactions above\nor select a widget on the canvas\nto make the widget interactive" :: "在上方添加页面交互\n或在画布上选择元件\n使该元件可交互"
 "Add a style effect like MouseOver" :: "添加类似“鼠标悬停”的交互样式"
 "MouseOver Style" :: "鼠标悬停的样式"
 "MouseDown Style" :: "鼠标按下的样式"
@@ -1894,6 +1894,7 @@
 "RadioButtons" :: "单选按钮"
 "Checkboxes" :: "复选框"
 "Radio Buttons and Checkboxes" :: "单选按钮与复选框"
+" and " :: "与"
 "Assign Radio Group:" :: "单选按钮组"
 "Submit Button" :: "提交按钮"
 "Read Only" :: "只读"
