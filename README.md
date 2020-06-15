@@ -1,5 +1,5 @@
 # Axure RP 中文语言包
-基于网友的翻译，持续维护新增词条并改进已有词条。持续更新。
+基于前人的翻译，新增词条并改进已有词条，精益求精，持续更新。
 
 ## 如何使用
 
@@ -24,4 +24,5 @@
 * [Pluwen](https://twitter.com/pluwen)
 
 ## 鸣谢
-* 感谢前人的汉化
+* [WebPPD](www.axure.org/thread-16312-1-1.html)
+* [PMYES](https://www.pmyes.com/thread-35068.htm)
