@@ -24,5 +24,5 @@
 * [Pluwen](https://twitter.com/pluwen)
 
 ## 鸣谢
-* [WebPPD](www.axure.org/thread-16312-1-1.html)
-* [PMYES](https://www.pmyes.com/thread-35068.htm)
+* [WebPPD](http://www.axure.org/thread-16312-1-1.html)
+* [产品班](http://www.chanpinban.com)
