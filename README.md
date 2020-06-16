@@ -25,4 +25,4 @@
 
 ## 鸣谢
 * [WebPPD](http://www.axure.org/thread-16312-1-1.html)
-* [产品班](http://www.chanpinban.com)
+* [小楼一夜听春语](http://www.chanpinban.com)
