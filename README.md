@@ -14,7 +14,7 @@
 ### Windows
 * 从[官网](https://www.axure.com/)下载安装最新版的 Axure RP 9 并安装
 * 点击[下载语言包](https://github.com/pluwen/axure-rp-cn-lang/archive/master.zip)到电脑
-* 解压后，按 Ctrl+C 拷贝「lang」文件夹
+* 解压后，按 Ctrl+C 复制「lang」文件夹
 * 进入 Axure 安装目录
   * ``c://Program Files/Axure/Axure RP 9.0/（32位系统）``
   * ``c://Program Files (x86)/Axure/Axure RP 9.0/（64位系统）``
