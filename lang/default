@@ -2028,7 +2028,7 @@
 "Radio Buttons and Checkboxes" :: "单选按钮与复选框"
 "RadioButtons" :: "单选按钮"
 "Radius" :: "半径"
-"Raise Event" :: "触发事件"
+"Raise Event" :: "引发事件"
 "Raised event names must be alphanumeric and contain no spaces. For example, OnMyButtonClick." :: "触发的事件名称必须是字母与数字，并且不能包含空格，例如：OnMyButtonClick。"
 "Raised events on a master appear in the interactions of each instance of the master. Use raised events when interactions on a master vary from instance to instance or when interactions on a master affect widgets not in the master." :: "母版自定义触发事件可与母版中元件的交互事件绑定，并在该母版所影响的页面中设置自定义触发事件的动作。"
 "Random" :: "随机"
