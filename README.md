@@ -16,8 +16,8 @@
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 Ctrl+C 复制「lang」文件夹
 * 进入 Axure 安装目录
-  * ``c://Program Files/Axure/Axure RP 9.0/（32位系统）``
-  * ``c://Program Files (x86)/Axure/Axure RP 9.0/（64位系统）``
+  * ``c://Program Files/Axure/Axure RP 9.0/（64位系统）``
+  * ``c://Program Files (x86)/Axure/Axure RP 9.0/（32位系统）``
 * 按 Ctrl+V 将「lang」文件夹粘贴到当前文件夹
 
 ## 作者
