@@ -1,5 +1,5 @@
 # Axure RP 中文语言包
-基于前人的翻译，新增词条并改进已有词条，优先支持 Axure RP 9，持续更新。
+基于前人的翻译，新增词条并改进已有词条，支持 Axure RP 9 以及 Axure RP 10 Beta，持续更新。
 
 ## Axure 10 汉化包使用方法
 
@@ -15,8 +15,8 @@
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 Ctrl+C 复制「Axure 10」中的「lang」文件夹
 * 进入 Axure 安装目录
-  * ``c://Program Files/Axure/Axure RP 10 Beta/（64位系统）``
-  * ``c://Program Files (x86)/Axure/Axure RP 10 Beta/（32位系统）``
+  * ``c://Program Files/Axure/Axure RP 10 Beta/``（64位系统）
+  * ``c://Program Files (x86)/Axure/Axure RP 10 Beta/``（32位系统）
 * 按 Ctrl+V 将「lang」文件夹粘贴到当前文件夹
 
 ## Axure 9 汉化包使用方法
@@ -34,8 +34,8 @@
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 Ctrl+C 复制「Axure 9」中的「lang」文件夹
 * 进入 Axure 安装目录
-  * ``c://Program Files/Axure/Axure RP 9.0/（64位系统）``
-  * ``c://Program Files (x86)/Axure/Axure RP 9.0/（32位系统）``
+  * ``c://Program Files/Axure/Axure RP 9.0/``（64位系统）
+  * ``c://Program Files (x86)/Axure/Axure RP 9.0/``（32位系统）
 * 按 Ctrl+V 将「lang」文件夹粘贴到当前文件夹
 
 ## 作者
