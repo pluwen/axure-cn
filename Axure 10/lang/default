@@ -1,4 +1,4 @@
-" : Licensed to {0}" :: " : 已授权给 {0}"
+" : Licensed to {0}" :: " : 已授权"
 " : Unlicensed" :: " : 未授权"
 " {0} {1}ms" :: " {0} {1}毫秒"
 " and " :: " 并且 "
@@ -2667,6 +2667,7 @@
 "This event has no actions." :: "当前事件还没有添加任何动作"
 "This file is already open in another instance of Axure RP." :: "此文件已经在另一个 Axure RP 中打开。"
 "This file is currently in use. Please save using a different file name or wait until the file becomes available." :: "此文件正在使用。请使用其它名称保存，或等待文件可用。"
+"This file was created in Axure RP 9. Files saved in Axure RP 10 will not open in version 9.\n\nIf you are sharing files, please upgrade together." :: "该文件是在 Axure RP 9 中创建的。在 Axure RP 10 中保存的文件将无法在 9 版本中打开。\r\n\r\n如果你要共享文件，请一起升级。"
 "This image is very large and may cause the application to run slower.\nWould you like to optimize it?" :: "图片太大会导致程序运行缓慢，是否进行优化？"
 "This is a valid license." :: "这是一个有效的授权。"
 "This key is not valid for {0}. Please <a>www.axure.com/buy-upgrade||upgrade your license</a>." :: "此授权对于 {0} 无效！请<a>www.axure.com/buy-upgrade||升级你的授权</a>。"
