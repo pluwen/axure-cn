@@ -1409,7 +1409,7 @@
 "Inbox" :: "收件箱"
 "Include beta channel builds" :: "包含测试版"
 "Include Both" :: "全部包含"
-"Include text and / or interactions" :: "包含文本和/或交互"
+"Include text and / or interactions" :: "包含文本/交互"
 "Include components (Find All only)" :: "包含母板（仅查找全部时）"
 "Include components (Replace All only)" :: "包含母板（仅替换全部时）"
 "Include expanded trees" :: "包含展开的树"
