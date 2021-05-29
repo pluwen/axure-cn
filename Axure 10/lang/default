@@ -516,8 +516,8 @@
 "Bell" :: "铃声"
 "Below" :: "下方"
 "below" :: "下方"
-"Beta version {0} expires in {1} days" :: "测试版本{0}将于{1}天后过期！"
-"Beta Version {0} has expired\nUpdate with Help > Check for Updates or at www.axure.com/beta" :: "测试版本{0}已过期！\n请通过“帮助”-“检查更新”或访问“www.axure.com/beta”进行软件升级"
+"Beta version {0} expires in {1} days" :: "测试版本 {0} 将于 {1} 天后过期！"
+"Beta Version {0} has expired\nUpdate with Help > Check for Updates or at www.axure.com/beta" :: "测试版本 {0} 已过期！\n请通过“帮助”-“检查更新”或访问“www.axure.com/beta”进行软件升级"
 "Beveled Rectangle" :: "斜角矩形"
 "Bicycle" :: "自行车"
 "Binoculars" :: "望远镜"
@@ -2231,6 +2231,7 @@
 "Save Team Project File" :: "保存团队项目文件"
 "Save your local copy,\nwhich you'll use to edit the\nteam project on this computer" :: "保存你的本地副本\n用于编辑此计算机上的团队项目"
 "Save" :: "保存"
+"Saving upgraded files" :: "保存已升级的文件"
 "Scale down only" :: "仅缩小尺寸"
 "Scale to fit printer paper size" :: "缩放适应打印机纸张尺寸"
 "Scale to Fit" :: "缩放到适合"
@@ -3029,3 +3030,7 @@
 "Zoom All" :: "全部缩放"
 "ZOOM" :: "缩放"
 "Zoom" :: "缩放"
+
+----未生效部分----
+"Alert" :: "提示"
+"Files saved in Axure RP 10 will not open in previous versions. We recommend saving to a new file." :: "在 Axure RP 10 中保存的文件将无法在以前的版本中打开。我们建议保存为一个新的文件。"
