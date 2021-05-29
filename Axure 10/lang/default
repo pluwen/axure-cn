@@ -158,6 +158,7 @@
 "&Hide Axure RP" :: "隐藏 Axure RP(&H)"
 "&Import from RP File..." :: "从 RP 文件导入(&I)…"
 "&Indent" :: "降级(&I)"
+"&Keyboard Shortcuts..." :: "键盘快捷键(&K)…"
 "&Lock Guides" :: "锁定辅助线(&L)"
 "&Lock Location and Size" :: "锁定位置和大小(&L)"
 "&Lock to Master Location" :: "锁定到母版位置(&L)"
