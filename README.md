@@ -47,5 +47,5 @@
 * [Pluwen](https://twitter.com/pluwen)
 
 ## 鸣谢
-* [WebPPD](http://www.axure.org/thread-16312-1-1.html)
+* [WebPPD](http://www.axure.org/axure10)
 * [小楼一夜听春语](http://www.chanpinban.com)
