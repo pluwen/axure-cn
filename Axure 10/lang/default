@@ -2423,6 +2423,7 @@
 "Set" :: "设置"
 "set" :: "设置"
 "Settings for fields with options will appear here" :: "有选项的字段的设置将出现在这里"
+"settings" :: "设置"
 "Shadow" :: "阴影"
 "SHADOW" :: "阴影"
 "SHAPE INTERACTIONS" :: "形状交互"
