@@ -1,5 +1,5 @@
 # Axure RP 中文语言包
-基于前人的翻译，新增词条并改进已有词条，支持 Axure RP 9 以及 Axure RP 10，持续更新。
+基于前人的翻译，新增词条并改进已有词条，支持 Axure RP 9 以及 Axure RP 10，不定期更新。
 
 ## Axure RP 10 汉化截图
 ![Axure RP 10 SnapShot](https://raw.githubusercontent.com/pluwen/axure-cn/master/snapshot/axure10.png)
