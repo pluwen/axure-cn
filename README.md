@@ -4,6 +4,8 @@
 
 ## Axure 11 汉化包使用方法
 
+![Axure RP 11 SnapShot](https://raw.githubusercontent.com/pluwen/axure-cn/main/snapshot/axure11.png)
+
 ### macOS
 
 * 从[官网](https://axure.cachefly.net/AxureRP-Setup.dmg)下载安装最新版的 Axure RP 11 并安装
@@ -26,7 +28,7 @@
 
 ## Axure RP 10 汉化截图
 
-![Axure RP 10 SnapShot](https://raw.githubusercontent.com/pluwen/axure-cn/master/snapshot/axure10.png)
+![Axure RP 10 SnapShot](https://raw.githubusercontent.com/pluwen/axure-cn/main/snapshot/axure10.png)
 
 ## Axure 10 汉化包使用方法
 
