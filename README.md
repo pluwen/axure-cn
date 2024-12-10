@@ -26,11 +26,9 @@
   * ``c://Program Files (x86)/Axure/Axure RP 11/``（32位系统）
 * 按 Ctrl+V 将「lang」文件夹粘贴到当前文件夹
 
-## Axure RP 10 汉化截图
+## Axure 10 汉化包使用方法
 
 ![Axure RP 10 SnapShot](https://raw.githubusercontent.com/pluwen/axure-cn/main/snapshot/axure10.png)
-
-## Axure 10 汉化包使用方法
 
 ### macOS
 
