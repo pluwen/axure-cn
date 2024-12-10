@@ -1141,7 +1141,7 @@
 "Expand/Collapse <a>Tree Node</a>" :: "展开/收起<a>树节点</a>"
 "Expand/Collapse Tree Node" :: "展开/收起树节点"
 "Explore the possibilities" :: "探索更多可能性"
-"Explore the prototyping basics file to quickly get up to speed" :: "浏览原型设计基础文件，以便快速上手"
+"Explore the prototyping basics file to quickly get up to speed." :: "浏览原型设计基础文件，以便快速上手。"
 "Export {0} to Image..." :: "导出 {0} 为图片…"
 "Export Images" :: "导出图片"
 "Export Team Project to &File..." :: "导出团队项目到文件…"
