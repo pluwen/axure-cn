@@ -81,3 +81,7 @@
 
 * [WebPPD](http://www.axure.org/axure10)
 * [小楼一夜听春语](http://www.chanpinban.com)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/axure-cn&type=Date)](https://star-history.com/#pluwen/axure-cn&Date)
