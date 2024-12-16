@@ -310,6 +310,8 @@
 "Add page interactions above\nor select a widget on the canvas\nto make the widget interactive" :: "在上方添加页面交互，或在画布上\n选择一个小部件，使其具有交互功能。"
 "Add Page" :: "添加页面"
 "Add Reference Page" :: "添加引用页面"
+"Add Right Connector" :: "新增右侧连接器"
+"Add Bottom Connector" :: "新增底部连接器"
 "Add Row Above" :: "在上方添加行"
 "Add Row Below" :: "在下方添加行"
 "Add Row" :: "添加行"
