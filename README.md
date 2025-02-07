@@ -9,6 +9,7 @@
 ### macOS
 
 * 从[官网](https://axure.cachefly.net/AxureRP-Setup.dmg)下载安装最新版的 Axure RP 11 并安装
+* 先打开一次 Axure，再关掉
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 ⌘+C 拷贝「Axure 11」中的「lang」文件夹
 * 到「应用程序」文件夹，右击「Axure RP 11」，选择「显示包内容」
@@ -19,6 +20,7 @@
 ### Windows
 
 * 从[官网](https://axure.cachefly.net/AxureRP-Setup.exe)下载安装最新版的 Axure RP 11 并安装
+* 先打开一次 Axure，再关掉
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 Ctrl+C 复制「Axure 11」中的「lang」文件夹
 * 进入 Axure 安装目录
@@ -33,6 +35,7 @@
 ### macOS
 
 * 从[官网](https://axure.cachefly.net/AxureRP-Setup.dmg)下载安装最新版的 Axure RP 10 并安装
+* 先打开一次 Axure，再关掉
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 ⌘+C 拷贝「Axure 10」中的「lang」文件夹
 * 到「应用程序」文件夹，右击「Axure RP 10」，选择「显示包内容」
@@ -43,6 +46,7 @@
 ### Windows
 
 * 从[官网](https://axure.cachefly.net/AxureRP-Setup.exe)下载安装最新版的 Axure RP 10 并安装
+* 先打开一次 Axure，再关掉
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 Ctrl+C 复制「Axure 10」中的「lang」文件夹
 * 进入 Axure 安装目录
@@ -55,6 +59,7 @@
 ### macOS
 
 * 从[官网](https://www.axure.com/)下载安装最新版的 Axure RP 9 并安装
+* 先打开一次 Axure，再关掉
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 ⌘+C 拷贝「Axure 9」中的「lang」文件夹
 * 到「应用程序」文件夹，右击「Axure RP 9」，选择「显示包内容」
@@ -64,6 +69,7 @@
 ### Windows
 
 * 从[官网](https://www.axure.com/)下载安装最新版的 Axure RP 9 并安装
+* 先打开一次 Axure，再关掉
 * 点击[下载语言包](https://github.com/pluwen/axure-cn/archive/master.zip)到电脑
 * 解压后，按 Ctrl+C 复制「Axure 9」中的「lang」文件夹
 * 进入 Axure 安装目录
