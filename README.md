@@ -30,8 +30,6 @@
 
 ## Axure 10 汉化包使用方法
 
-![Axure RP 10 SnapShot](https://raw.githubusercontent.com/pluwen/axure-cn/main/snapshot/axure10.png)
-
 ### macOS
 
 * 从[官网](https://axure.cachefly.net/AxureRP-Setup.dmg)下载安装最新版的 Axure RP 10 并安装
