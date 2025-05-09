@@ -945,6 +945,7 @@
 "Delete Mapping" :: "删除映射"
 "Delete Row" :: "删除行"
 "Delete rows" :: "删除行"
+"Delete Rows" :: "删除行"
 "Delete State" :: "删除状态"
 "Delete" :: "删除"
 "Deleting a view cannot be undone.\r\n\r\nWould you like to continue?" :: "删除视图将不能撤销。\r\n\r\n您想继续吗？"
