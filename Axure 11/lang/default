@@ -1563,7 +1563,7 @@
 "Insert Row Above" :: "在上面插入行"
 "Insert Row Below" :: "在下面插入行"
 "Insert Row" :: "插入行"
-"Insert Text Link" :: "插入文本链接"
+"Insert text link" :: "插入文本链接"
 "Insert tools" :: "插入工具"
 "Insert Variable or Function..." :: "插入变量或函数…"
 "INSERT" :: "插入"
