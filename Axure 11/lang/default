@@ -817,7 +817,7 @@
 "COMPONENT VIEWS" :: "母版视图"
 "Component views" :: "母版视图"
 "Component" :: "母版"
-"Components can be reused across\nyour project. Edit once and see your\nchanges everywhere.\n\n<a>https://docs.axure.com/axure-rp/reference/creating-and-using-masters||Learn more about components</a>" :: "母版是可以在项目中重复使用的。只需编辑\n一次，即可在任何地方查看所做的更改。\n\n<a>https://docs.axure.com/axure-rp/reference/creating-and-using-masters||了解关于母版的更多信息"
+"Components can be reused across\nyour project. Edit once and see your\nchanges everywhere.\n\n<a>https://docs.axure.com/axure-rp/reference/creating-and-using-masters||Learn more about components</a>" :: "母版可以在项目中复用。一次编辑，处处更新。\n\n<a>https://docs.axure.com/axure-rp/reference/creating-and-using-masters||了解关于母版的更多信息"
 "Components" :: "母版"
 "Compress" :: "收缩"
 "Condensed View" :: "精简视图"
