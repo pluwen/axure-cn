@@ -817,6 +817,7 @@
 "Completed" :: "完成"
 "Component instance props" :: "母版实例属性"
 "Component override" :: "母版覆盖"
+"Component overrides" :: "母版覆盖"
 "COMPONENT VIEW" :: "母版视图"
 "COMPONENT VIEWS" :: "母版视图"
 "Component views" :: "母版视图"
