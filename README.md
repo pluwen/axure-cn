@@ -86,4 +86,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/axure-cn&type=Date)](https://star-history.com/#pluwen/axure-cn&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=pluwen/axure-cn&type=Date)](https://star-history.dera.page/#pluwen/axure-cn&Date)
